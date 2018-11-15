@@ -1,0 +1,12 @@
+setup.py
+controller/__init__.py
+controller/book_controller.py
+core/__init__.py
+core/book_service.py
+db/__init__.py
+db/data.py
+getbook.egg-info/PKG-INFO
+getbook.egg-info/SOURCES.txt
+getbook.egg-info/dependency_links.txt
+getbook.egg-info/requires.txt
+getbook.egg-info/top_level.txt
